@@ -1,0 +1,1686 @@
+fileFormatVersion: 2
+guid: 01e5eece54588cd42a1d14f540c9d1ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2186452605844265591
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_0
+  - first:
+      213: -6199702265521403607
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_1
+  - first:
+      213: 8509805094761066670
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_2
+  - first:
+      213: -8640449631466308511
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_3
+  - first:
+      213: 4557331507548914249
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_4
+  - first:
+      213: 300933516929471037
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_5
+  - first:
+      213: 4348313950564206117
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_6
+  - first:
+      213: -967858779652350108
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_7
+  - first:
+      213: 5184506976853443625
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_8
+  - first:
+      213: 5879978364036227905
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_9
+  - first:
+      213: -7445146907936905007
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_10
+  - first:
+      213: -999911085781733303
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_11
+  - first:
+      213: -892330246164660188
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_12
+  - first:
+      213: -4361265343034555945
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_13
+  - first:
+      213: -5616118487036738339
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_14
+  - first:
+      213: -5788928548914266332
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_15
+  - first:
+      213: 4148797170295761634
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_16
+  - first:
+      213: -4143099912651733769
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_17
+  - first:
+      213: 8582553611965282844
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_18
+  - first:
+      213: -7966996336749239113
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_19
+  - first:
+      213: -3083278642615503334
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_20
+  - first:
+      213: 767558260125816148
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_21
+  - first:
+      213: -1412094814963126292
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_22
+  - first:
+      213: 8714202687572680328
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_23
+  - first:
+      213: -7672854031194003663
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_24
+  - first:
+      213: 7195190476877931087
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_25
+  - first:
+      213: -943092548765350224
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_26
+  - first:
+      213: 7264261210882013444
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_27
+  - first:
+      213: 8816641236322657470
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_28
+  - first:
+      213: -1336473155498478835
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_29
+  - first:
+      213: 1551103898408939197
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_30
+  - first:
+      213: 4293334477575782123
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_31
+  - first:
+      213: 21385002851300536
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_32
+  - first:
+      213: -965839282827880687
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_33
+  - first:
+      213: -3582838393907515237
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_34
+  - first:
+      213: 4014554122250473210
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_35
+  - first:
+      213: 4657027369765507320
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_36
+  - first:
+      213: -6354488351273629649
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_37
+  - first:
+      213: -9199693480740624354
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_38
+  - first:
+      213: 2339166140853207205
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_39
+  - first:
+      213: -1162879415242852788
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_40
+  - first:
+      213: -3897487161123425634
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_41
+  - first:
+      213: 7225744039891672641
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_42
+  - first:
+      213: -5845955857112073783
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_43
+  - first:
+      213: -996865173056103236
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_44
+  - first:
+      213: -517525769125878633
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_45
+  - first:
+      213: 3395020777288710820
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_46
+  - first:
+      213: 5181137173913044421
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_47
+  - first:
+      213: 8668548904243210868
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_48
+  - first:
+      213: -8936093956675609827
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_49
+  - first:
+      213: -3957816784687815336
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_50
+  - first:
+      213: -1323771399704170213
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_51
+  - first:
+      213: 6576791053461446938
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_52
+  - first:
+      213: -143017052291640920
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_53
+  - first:
+      213: 3063130314715072077
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_54
+  - first:
+      213: 5388728725213904696
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_55
+  - first:
+      213: -8526925098771287056
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_56
+  - first:
+      213: -6585284425188904255
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_57
+  - first:
+      213: -541179077736755374
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_58
+  - first:
+      213: 124628835153376254
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_59
+  - first:
+      213: -5154161775901456456
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_60
+  - first:
+      213: 3355691206157508113
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_61
+  - first:
+      213: 5175800752516221532
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_62
+  - first:
+      213: -3307366769045669040
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_63
+  - first:
+      213: -4377476316649800711
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_64
+  - first:
+      213: 5335840090004092760
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_65
+  - first:
+      213: 6757035153708466427
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_66
+  - first:
+      213: 4307718133914475469
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_67
+  - first:
+      213: 5152963310853421004
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_68
+  - first:
+      213: 7481671806544109971
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_69
+  - first:
+      213: -445035824521231572
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_70
+  - first:
+      213: -2429343922913498973
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_71
+  - first:
+      213: -4449311574087861879
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_72
+  - first:
+      213: -1132575996600307003
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_73
+  - first:
+      213: 3167262720001616015
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_74
+  - first:
+      213: 5005423638705737993
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_75
+  - first:
+      213: -500039442475695891
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_76
+  - first:
+      213: -2969207644598021628
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_77
+  - first:
+      213: 7950014606389040757
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_78
+  - first:
+      213: 5679466751328156790
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_79
+  - first:
+      213: -6160486046917653523
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_80
+  - first:
+      213: -7231961394541108704
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_81
+  - first:
+      213: 3941098839538604671
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_82
+  - first:
+      213: 6695706745673393068
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_83
+  - first:
+      213: 7357746331454172116
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_84
+  - first:
+      213: 2294838999535520889
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_85
+  - first:
+      213: -5921758450783205036
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_86
+  - first:
+      213: 4310919356547838159
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_87
+  - first:
+      213: -3437832761294246758
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_88
+  - first:
+      213: 5408206649562474456
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_89
+  - first:
+      213: -4145460779833812391
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_90
+  - first:
+      213: 4597412591335226981
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_91
+  - first:
+      213: -5439924387191177048
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_92
+  - first:
+      213: -3957995410149849301
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_93
+  - first:
+      213: -2635641098231689117
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_94
+  - first:
+      213: 8967600818520919541
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_95
+  - first:
+      213: 7794873159770465837
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_96
+  - first:
+      213: 8348941963162485945
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_97
+  - first:
+      213: 5411919919020872683
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_98
+  - first:
+      213: -8193311573380807508
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_99
+  - first:
+      213: -300375946771243109
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_100
+  - first:
+      213: -8053124366688548171
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_101
+  - first:
+      213: -976008114005973382
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_102
+  - first:
+      213: -8997915964524168387
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_103
+  - first:
+      213: 4922877968063896943
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_104
+  - first:
+      213: -1512300135705798909
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_105
+  - first:
+      213: -3453117771263738890
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_106
+  - first:
+      213: -6692862392588152132
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_107
+  - first:
+      213: -7025539726822177284
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_108
+  - first:
+      213: -2145580812683205928
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_109
+  - first:
+      213: -2647833868764755120
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_110
+  - first:
+      213: -4357751672757589092
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_111
+  - first:
+      213: -4051101682135474893
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_112
+  - first:
+      213: 3351549775794039133
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_113
+  - first:
+      213: 3644032269345817125
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_114
+  - first:
+      213: -4281962763124496354
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_115
+  - first:
+      213: 3036337163542634
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_116
+  - first:
+      213: 6152995687989814980
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_117
+  - first:
+      213: -2008808063388862258
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_118
+  - first:
+      213: -391522216470055768
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_119
+  - first:
+      213: 8370996108026984231
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_120
+  - first:
+      213: -1674499787854877909
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_121
+  - first:
+      213: 4970773398088635974
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_122
+  - first:
+      213: -5651983112955955010
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_123
+  - first:
+      213: 9017879673297243242
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_124
+  - first:
+      213: -2863941470495940947
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_125
+  - first:
+      213: 4973906430802884291
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_126
+  - first:
+      213: -5988356997370062749
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_127
+  - first:
+      213: 6418030618241657661
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_128
+  - first:
+      213: -5205208076572384636
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_129
+  - first:
+      213: 986289717614139921
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_130
+  - first:
+      213: 1656722314542743954
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_131
+  - first:
+      213: -2452864850514221342
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_132
+  - first:
+      213: 7913274434351270017
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_133
+  - first:
+      213: -79838901113436264
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_134
+  - first:
+      213: -725920245866223756
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_135
+  - first:
+      213: 2740061350684467683
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_136
+  - first:
+      213: 8460254214232271553
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_137
+  - first:
+      213: -2201250191210223139
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_138
+  - first:
+      213: -9072186176840971967
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_139
+  - first:
+      213: -634290948005631521
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_140
+  - first:
+      213: -5425803748671385636
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_141
+  - first:
+      213: -5902370384462162261
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_142
+  - first:
+      213: -7396633306373923634
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_143
+  - first:
+      213: -4912150590645022667
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_144
+  - first:
+      213: 5401798970010051035
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_145
+  - first:
+      213: -599726703346138537
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_146
+  - first:
+      213: 5371322313563116187
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_147
+  - first:
+      213: -5577045866741334652
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_148
+  - first:
+      213: -3929914735882624557
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_149
+  - first:
+      213: -9196351262939076373
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_150
+  - first:
+      213: -5190361695199670215
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_151
+  - first:
+      213: -669645884867688093
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_152
+  - first:
+      213: 3659491188948678181
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_153
+  - first:
+      213: 3382748614301421531
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_154
+  - first:
+      213: -341513123522702251
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_155
+  - first:
+      213: 4482144471738323559
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_156
+  - first:
+      213: 5971849242790911716
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_157
+  - first:
+      213: 746197355683980987
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_158
+  - first:
+      213: -4796096640041875620
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_159
+  - first:
+      213: 8363346352893791534
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_160
+  - first:
+      213: 2763211632000893237
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_161
+  - first:
+      213: 2325146654657202906
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_162
+  - first:
+      213: 5285458225598692486
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_163
+  - first:
+      213: 168644568269219145
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_164
+  - first:
+      213: 3048370256892084395
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_165
+  - first:
+      213: -607252247458731003
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_166
+  - first:
+      213: 356951628597394681
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_167
+  - first:
+      213: -7506030154121050884
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_168
+  - first:
+      213: -8177372374358739225
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_169
+  - first:
+      213: 875540248591720969
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_170
+  - first:
+      213: 5616564336118771398
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_171
+  - first:
+      213: -1437859160270636226
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_172
+  - first:
+      213: -4188817212280329579
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_173
+  - first:
+      213: 7079555140490684094
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_174
+  - first:
+      213: -863689100545475450
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_175
+  - first:
+      213: 8813351402461163352
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_176
+  - first:
+      213: 3475713106337669207
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_177
+  - first:
+      213: -8558523509624668935
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_178
+  - first:
+      213: 7135568085567912348
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_179
+  - first:
+      213: -1124783649471217695
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_180
+  - first:
+      213: 6903852910928434476
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_181
+  - first:
+      213: -734808574752411570
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_182
+  - first:
+      213: -2098498604785071770
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_183
+  - first:
+      213: 2524320476732443147
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_184
+  - first:
+      213: 3732245600151531724
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_185
+  - first:
+      213: 575351901245204041
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_186
+  - first:
+      213: -8410684418091557062
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_187
+  - first:
+      213: 7459928990644511017
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_188
+  - first:
+      213: 2266069522981682913
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_189
+  - first:
+      213: -1427223561855964464
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_190
+  - first:
+      213: 2031730864531192435
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_191
+  - first:
+      213: -6561202328333588429
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_192
+  - first:
+      213: 3008600062355878060
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_193
+  - first:
+      213: 6346826943511978185
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_194
+  - first:
+      213: 7206935372034738939
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_195
+  - first:
+      213: 4206653035553456722
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_196
+  - first:
+      213: 2635781977187197158
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_197
+  - first:
+      213: 8348385564124773924
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_198
+  - first:
+      213: -4959792439544753351
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_199
+  - first:
+      213: 3451867727676397977
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_200
+  - first:
+      213: 2041046273873035648
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_201
+  - first:
+      213: 4027551609571439614
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_202
+  - first:
+      213: 5531549654240885153
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_203
+  - first:
+      213: 5605601026956024201
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_204
+  - first:
+      213: 858381109037836921
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_205
+  - first:
+      213: -1973901490446094191
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_206
+  - first:
+      213: -5983139583761194149
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_207
+  - first:
+      213: -1056634084156235043
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_208
+  - first:
+      213: 1128061650409413230
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_209
+  - first:
+      213: -764803354378575508
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_210
+  - first:
+      213: 9147275011482921956
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_211
+  - first:
+      213: -5854552129374475108
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_212
+  - first:
+      213: 81536994055995867
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_213
+  - first:
+      213: 6837391517012542665
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_214
+  - first:
+      213: 2482803154491264015
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_215
+  - first:
+      213: 2053165133827847178
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_216
+  - first:
+      213: -3569670341719080021
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_217
+  - first:
+      213: -981894155273201569
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_218
+  - first:
+      213: 9101892899677797154
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_219
+  - first:
+      213: 712503837087175752
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_220
+  - first:
+      213: 5287979031285074685
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_221
+  - first:
+      213: 6907130289689125211
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_222
+  - first:
+      213: -103473803462824284
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_223
+  - first:
+      213: -7152790233107253190
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_224
+  - first:
+      213: -6702889751109770308
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_225
+  - first:
+      213: -7883981958068365989
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_226
+  - first:
+      213: -2607100332916842142
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_227
+  - first:
+      213: -6527138678227873941
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_228
+  - first:
+      213: -28405098608038319
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_229
+  - first:
+      213: -6342297177378025757
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_230
+  - first:
+      213: -8152591186606780807
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_231
+  - first:
+      213: -5998203159985661380
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_232
+  - first:
+      213: -9137145222774934984
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_233
+  - first:
+      213: 2249586095651635685
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_234
+  - first:
+      213: 5432703887612776448
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_235
+  - first:
+      213: -7850401817119433973
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_236
+  - first:
+      213: 363764720928234478
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_237
+  - first:
+      213: -1596539044668472646
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_238
+  - first:
+      213: -7698177194686933990
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_239
+  - first:
+      213: -2896255859995915595
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_240
+  - first:
+      213: 6594145973614462741
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_241
+  - first:
+      213: 5509094609923416424
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_242
+  - first:
+      213: 5698823560398247268
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_243
+  - first:
+      213: 2633163517436725757
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_244
+  - first:
+      213: -1307648896095955007
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_245
+  - first:
+      213: -4429514059208050211
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_246
+  - first:
+      213: -5917238361032014907
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_247
+  - first:
+      213: 5042781270073455416
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_248
+  - first:
+      213: -852274478707783501
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_249
+  - first:
+      213: 9016782112953487468
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_250
+  - first:
+      213: -7598148706333796082
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_251
+  - first:
+      213: -2325346382311851893
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_252
+  - first:
+      213: -2902341907175576059
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_253
+  - first:
+      213: -5735322836791131626
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_254
+  - first:
+      213: -3737980464962394636
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_255
+  - first:
+      213: 6266213721533386709
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_256
+  - first:
+      213: -8696163167721423260
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_257
+  - first:
+      213: -1105615858901461708
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_258
+  - first:
+      213: 4990356103814023951
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_259
+  - first:
+      213: -520607536922692596
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_260
+  - first:
+      213: -7055480386550841535
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_261
+  - first:
+      213: 3918879831817914584
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_262
+  - first:
+      213: 6223908631810306346
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_263
+  - first:
+      213: -3808466753800064779
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_264
+  - first:
+      213: -2071365075247515968
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_265
+  - first:
+      213: -611161104633844389
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_266
+  - first:
+      213: 7968319997260892427
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_267
+  - first:
+      213: 656850829544392334
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_268
+  - first:
+      213: -5966428932322689452
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_269
+  - first:
+      213: -5757672067411897882
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_270
+  - first:
+      213: 4195415132073168640
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_271
+  - first:
+      213: -516393505159499844
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_272
+  - first:
+      213: 2274442475565984837
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_273
+  - first:
+      213: 3216093447213542739
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_274
+  - first:
+      213: 1004152615613634783
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_275
+  - first:
+      213: -4075537646666205753
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_276
+  - first:
+      213: 8975620850519097252
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_277
+  - first:
+      213: -9065768993910658523
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_278
+  - first:
+      213: -1925963557457671681
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_279
+  - first:
+      213: 1791709813281142477
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_280
+  - first:
+      213: 4433264309240096951
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_281
+  - first:
+      213: -7212901196757127086
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_282
+  - first:
+      213: 3500889072601469027
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_283
+  - first:
+      213: 4560144332157873134
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_284
+  - first:
+      213: -4910742131574897653
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_285
+  - first:
+      213: 7189881592746865190
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_286
+  - first:
+      213: 4538565767852855235
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_287
+  - first:
+      213: 2787318675601086910
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_288
+  - first:
+      213: 8588594566606550067
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_289
+  - first:
+      213: 3413249808498397761
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_290
+  - first:
+      213: -8882549676180696633
+    second: uomoblufermo-ezgif.com-gif-to-sprite-converter_291
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Win64
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a902b7de8ef8db54dadea8def8d9052c
+      internalID: 1118584796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316e66bf8a51ace4c85f061a75b562ff
+      internalID: -737694204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607b602959799d4c9a722be74f89354
+      internalID: -1367717908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e16a35c92f8f34589906b56eb0f3ea
+      internalID: -548858212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_4
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1600
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9660e712f78444aacd3dcc7a244924
+      internalID: 253968514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ed1cf3c828ac4282033107ecff597
+      internalID: 678538017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_6
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df599fe554963248b6af59e34cd8b3a
+      internalID: 1486091077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e436402da78f8478f0aad18f653985
+      internalID: 1730674911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23249f7d79bf3643b65d19e03086ec5
+      internalID: 627239248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ff6ddd8f660a44a1f1e4604cecf47
+      internalID: -1634955068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d074a34ae29594e96b1810eb9270df
+      internalID: -1676972661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6832c8cd0ecf604ba00e2401ac52fea
+      internalID: 919964357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f011468767f54614b810b81afcf79eee
+      internalID: -1495375939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 960
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ebd9bd2a01b8d4d8c43375c36bf5b2
+      internalID: 410804188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 960
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416a2074fdee434cba8aa2b770db47c
+      internalID: 783158735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fcbbd26ccc7845a5e04daa66fee9c
+      internalID: -611866784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3fa66d8f09ade44bce9a5f92c55eb8
+      internalID: -1190596236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2493b7480a33f674f9ec63c94acf5e87
+      internalID: 199453293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030615c8b1916f409d934125411432a
+      internalID: -1605151769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e278bef42f1944ada8fb801db0b80
+      internalID: -1570145430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf101f5d55f7ffe49b86a1de982a193d
+      internalID: -1152289258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86445e3af006db847979a96d1d2d6825
+      internalID: 1933792205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643b71c70b5f0448b53faa803bf5883
+      internalID: 1630820584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52aafc7e71a04443a422f9cf6b789aa
+      internalID: 1525528887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b980ed743edf2145b7f5d56a2dab677
+      internalID: 1928608674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a0f651c12e477438d64a912de19109
+      internalID: -1588730477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e6bc378641de346bd7372cf86228e1
+      internalID: 933652153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f00465015a7a42b214f064c144426
+      internalID: 364224959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uomoblufermo-ezgif.com-gif-to-sprite-converter_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.38, y: 0.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f957174a0801c489634e81a26f52c5
+      internalID: 441418864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8209e18989ba3674f9af7a3c56714aaf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_0: 1118584796
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_1: -737694204
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_10: -1676972661
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_11: 919964357
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_12: -1495375939
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_13: 410804188
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_14: 783158735
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_15: -611866784
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_16: -1190596236
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_17: 199453293
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_18: -1605151769
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_19: -1570145430
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_2: -1367717908
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_20: -1152289258
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_21: 1933792205
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_22: 1630820584
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_23: 1525528887
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_24: 1928608674
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_25: -1588730477
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_26: 933652153
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_27: 364224959
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_28: 441418864
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_3: -548858212
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_4: 253968514
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_5: 678538017
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_6: 1486091077
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_7: 1730674911
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_8: 627239248
+      uomoblufermo-ezgif.com-gif-to-sprite-converter_9: -1634955068
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

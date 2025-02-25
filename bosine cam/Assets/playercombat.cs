@@ -6,6 +6,10 @@ public class PlayerAttack : MonoBehaviour
 {
     public Animator animator; // Riferimento all'animatore
 
+    public Transform attackpoint;
+    public float attackRange = 0.5f;
+    public LayerMask enemyLayers;
+
 
     void Update()
     {
@@ -14,16 +18,19 @@ public class PlayerAttack : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.X)) // Attacco con il tasto "X"
         {
             {
-                attack ();
+                attack();
 
             }
         }
         
 
-        void attack ()
+        void attack()
         {
             // Attiva animazione di attacco
-            animator.SetTrigger("attack 1");
+            animator.SetTrigger("Attack");
+
+            //
+            Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackpoint.position, attackRange, enemyLayers);
 
         }
     }

@@ -294,7 +294,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6799861894888603119, guid: bc6838d78fa236b46a50531842becf4c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2020207507}
   m_SourcePrefab: {fileID: 100100000, guid: bc6838d78fa236b46a50531842becf4c, type: 3}
 --- !u!1 &245748318
 GameObject:
@@ -26552,6 +26555,29 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &2020207498 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6799861894888603119, guid: bc6838d78fa236b46a50531842becf4c, type: 3}
+  m_PrefabInstance: {fileID: 242368468}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &2020207500 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5032865936467606246, guid: bc6838d78fa236b46a50531842becf4c, type: 3}
+  m_PrefabInstance: {fileID: 242368468}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2020207507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2020207498}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4213dbdc4febf941bfaab5459ba478e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2020207500}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
